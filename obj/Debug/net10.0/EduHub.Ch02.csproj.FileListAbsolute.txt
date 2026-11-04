@@ -1,0 +1,45 @@
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/bin/Debug/net10.0/EduHub.Ch02
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/bin/Debug/net10.0/EduHub.Ch02.deps.json
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/bin/Debug/net10.0/EduHub.Ch02.runtimeconfig.json
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/bin/Debug/net10.0/EduHub.Ch02.dll
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/bin/Debug/net10.0/EduHub.Ch02.pdb
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.AssemblyInfoInputs.cache
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.AssemblyInfo.cs
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.csproj.CoreCompileInputs.cache
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.sourcelink.json
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.dll
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/refint/EduHub.Ch02.dll
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.pdb
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/EduHub.Ch02.genruntimeconfig.cache
+/Users/steven/repositories/Teach-Build-Assess/subjects/IN4211-Phat-trien-phan-mem-huong-doi-tuong/2026-2027/02_Projects/ch02/solution/EduHub.Ch02/obj/Debug/net10.0/ref/EduHub.Ch02.dll
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.AssemblyInfoInputs.cache
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.AssemblyInfo.cs
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.csproj.CoreCompileInputs.cache
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.dll
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\refint\EduHub.Ch02.dll
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.pdb
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.exe
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.deps.json
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.runtimeconfig.json
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.dll
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.pdb
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.genruntimeconfig.cache
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\ref\EduHub.Ch02.dll
+D:\Hệ thống mạng Win\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.C.11B41C28.Up2Date
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.exe
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.deps.json
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.runtimeconfig.json
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.dll
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\bin\Debug\net10.0\EduHub.Ch02.pdb
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.AssemblyInfoInputs.cache
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.AssemblyInfo.cs
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.csproj.CoreCompileInputs.cache
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.dll
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\refint\EduHub.Ch02.dll
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.pdb
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.Ch02.genruntimeconfig.cache
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\ref\EduHub.Ch02.dll
+D:\Phát triển phần mềm\IN4211-ch02-solid-patterns-git\IN4211-ch02-solid-patterns-git\solution\EduHub.Ch02\obj\Debug\net10.0\EduHub.C.11B41C28.Up2Date
